@@ -2,7 +2,6 @@
 ### Couse overview
   - contents
   - materials
-  - tasks
   - homeworks
   - tests
   - grading
@@ -12,7 +11,6 @@
   - writing code
   - testing
   - debugging
-  - git (quick intro)
 
 ### Refreshing
   - input and output
@@ -23,3 +21,4 @@
 
 ### Tasks
   - https://www.hackerrank.com/contests/practice-1-sda/challenges
+  - https://www.hackerrank.com/challenges/non-divisible-subset/problem
