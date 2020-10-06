@@ -11,6 +11,7 @@ Materials and tasks for the practice sessions of SDA (2020)
 
 ### Extra practice (competitions):
 - https://www.dailycodingproblem.com/
+- https://action.informatika.bg/training
 - https://codeforces.com/
 - https://www.codechef.com/
 - https://codingcompetitions.withgoogle.com/kickstart/schedule
