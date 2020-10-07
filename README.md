@@ -9,9 +9,9 @@ Materials and tasks for the practice sessions of SDA (2020)
 - https://www.topcoder.com/community/competitive-programming/tutorials/
 - https://www.geeksforgeeks.org/
 
-### Extra practice (competitions):
-- https://www.dailycodingproblem.com/
-- https://action.informatika.bg/training
-- https://codeforces.com/
-- https://www.codechef.com/
-- https://codingcompetitions.withgoogle.com/kickstart/schedule
+### Extra practice/competitions:
+- Daily interview problem: https://www.dailycodingproblem.com/
+- Practice tasks in bulgarian: https://action.informatika.bg/training
+- Practice tasks or compete: https://codeforces.com/
+- Practice tasks or compete: https://www.codechef.com/
+- Google competitions: https://codingcompetitions.withgoogle.com/kickstart/schedule
