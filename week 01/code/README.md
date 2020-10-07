@@ -4,4 +4,4 @@
 
 - <strong>Watter supplies:</strong> Maintain a left bound and a right bound (index) and move each of them only forward.
 
-- <strong>Non divisible subsets:</strong> If (k|a) and (k|b) then what happens with the sum of (a % k) and (b % k)?
+- <strong>Non divisible subsets:</strong> If (k|a + b) then what happens with the sum of (a % k) and (b % k)?
