@@ -11,6 +11,7 @@
   - writing code
   - testing
   - debugging
+  - errors
 
 ### Refreshing
   - input and output
