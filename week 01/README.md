@@ -1,30 +1,28 @@
-## Agenda:
-### Couse overview
-  - contents
-  - materials
-  - homeworks
-  - tests
-  - grading
-
-### Solving problems
-  - languages
-  - writing code
-  - testing
-  - debugging
-  - errors
-
-### Refreshing
-  - input and output
-  - files
-  - pointers and references
-  - reursion
-  - STL
-  
+### Hackerrank
+- Failed tests:
+  - WA: Wrong answer, програмата извежда грешен резултат за дадения тест.
+  - TL: Time limit exceeded, праграмата работи твърде дълго време за дадения тест. 
+  - RE: Runtime Exception, най-често предизвикан от Segmentation fault - досъпване на памет която не е заделена за вашата програма (пример: A[100] е масив със заделена памет за 100 елемента, но се прави опит за досъпване на 150тия елемент А[150] или -50тия A[-50]).
+  - CE: Compilation error, програмата не се компилира, ще бъде изведено съобщение описващо точната грешка/и в кода.<br><br>
+- Input and Output:
+  - Не е необходимо да валидирате входните данни.<strong>Constraints</strong> са изпълнени за всички тестове и са там, за да ви дадaт информация отностно колко бързо трябва да решението ви (с каква сложност) и какви типове данни да използвате (double, long long, etc.).
+  - Въвеждането и извеждането със cin и cout понякога е бавно и при входни данни с голям размер може да забави програмата ви достатъчно, че да получите TL на някои тестове. Няколко неща които можете на направите, за да укорите работата им:
+    - Не използвайте endl когато печатате със cout, тъй като endl изпразва буфера на cout, което е бавна операция. Вместо това ползвайте '\n', по този начин новят ред също ще се запише в буфера и изпразването на буфера ще стане чак когато той се напълни (доста по рядко). Това е проблем основно когато решавате задачи при които трябва да отпечатате много редове.
+    - cin.tie(nullptr) - по подразбиране когато използвате cin първо се отпечатва всичко от буфера на cout, тази функция спира тяхната синхронизация и отново изпразването на буфера на cout става по-рядко.
+    - ios_base::sync_with_stdio(false) - по-подразбиране потоците от C++ са синхронизирани с потоците от C, тази функция спира тяхната синхронизация и ускорява работата на cin и cout.
+    
+### Преговор
+  - References:
+  ``` void someMethod (vector<int> v, int depth) {
+        if (depth == v.size()) {
+            return;
+        }
+        
+        ...
+        
+        someMethod(v, depth + 1);
+      
 ### Complexity
-  - Big O
-  - Big Ω
-  - Big Θ
-  - https://www.cs.cmu.edu/~adamchik/15-121/lectures/Algorithmic%20Complexity/complexity.html
 
 ### Tasks
   - https://www.hackerrank.com/contests/practice-1-sda/challenges/encoding-password
