@@ -92,6 +92,6 @@
   <em>* Понякога е възможно входа да е малък, но сложността на програмата да зависи от друга голяма стойност М (М може да е част от входа или от ограниченията). Тогава е по-добре да измерим сложността на програмата спрямо М.</em>
 
 ### Tasks
-  - https://www.hackerrank.com/contests/practice-1-sda/challenges/encoding-password
+  - https://www.hackerrank.com/contests/practice-1-sda/challenges/encoding-password 
   - https://www.hackerrank.com/contests/practice-1-sda/challenges/challenge-2196
-  - https://www.hackerrank.com/challenges/non-divisible-subset/problem
+  - https://www.hackerrank.com/challenges/non-divisible-subset/problem (hard)
