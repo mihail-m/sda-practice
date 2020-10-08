@@ -1,7 +1,7 @@
 ## Hints:
 
-- <strong>Encoding password:</strong> Implement what is required, nothing special to come up with.
+- <strong>Encoding password:</strong> Имплементирайте това което се иска в условието.
 
-- <strong>Watter supplies:</strong> Maintain a left bound and a right bound (index) and move each of them only forward.
+- <strong>Watter supplies:</strong> Тестовете на задачата позволяват сложност O(n^2). Сещате ли се за решение със сложност О(n) с помощта на 2 индекса: 1 за левият стълб и 1 за десният?
 
-- <strong>Non divisible subsets:</strong> If (k|a + b) then what happens with the sum of (a % k) and (b % k)?
+- <strong>Non divisible subsets:</strong> Ако (a + b) % k = 0, тогава (a % k) + (b % k) = k. Ако си запазим бройката на остатъците при деление с k на елементите на масива в друг масив: remainder[0, 1, ..., k - 1], тогава как можем да използваме стойностите на масива remainder[i] и remainder[k - i], за да намерим отговора на задачата?
