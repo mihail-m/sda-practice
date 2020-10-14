@@ -5,6 +5,7 @@
 - https://learn.fmi.uni-sofia.bg/course/view.php?id=6452
 - https://github.com/mchechev/data-structures-and-algorithms
 - https://github.com/mihail-m/CP-implementations
+- https://docs.google.com/document/d/1hKFde5VLJO8PHJPABL9vnscHVzKkGYJYRgeUwC9sJJ0/edit
 - https://cp-algorithms.com/
 - https://www.topcoder.com/community/competitive-programming/tutorials/
 - https://www.geeksforgeeks.org/
