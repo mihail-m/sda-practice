@@ -1,7 +1,7 @@
 ### Recording:
 - https://drive.google.com/drive/folders/1ZGigg_fUKWUaCgbQS8m2Ku3lhSs3HR8r?usp=sharing
 
-### Searching:
+### Linked List:
 - https://github.com/mihail-m/CP-implementations/tree/master/3-Basic-Data-Structures
 
 ### Tasks
