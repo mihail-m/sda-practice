@@ -10,6 +10,7 @@
 
 ### Geometry
 - Основни концепции част 1: https://www.topcoder.com/community/competitive-programming/tutorials/geometry-concepts-basic-concepts/
-- Основни концепции част 1: https://www.topcoder.com/community/competitive-programming/tutorials/geometry-concepts-line-intersection-and-its-applications/
+- Основни концепции част 2: https://www.topcoder.com/community/competitive-programming/tutorials/geometry-concepts-line-intersection-and-its-applications/
+#### Изпъкнала обвивка (Convex hull)
 - Graham's scan: https://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/
 - Graham's scan with improvenments by Andrew: https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html
