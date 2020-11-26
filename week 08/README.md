@@ -14,4 +14,9 @@
 - част 2: https://www.topcoder.com/community/competitive-programming/tutorials/geometry-concepts-line-intersection-and-its-applications/
 #### Изпъкнала обвивка (Convex hull)
 - Graham's scan: https://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/
+  <p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GrahamScanDemo.gif">
+  </p>
 - Graham's scan with improvenments by Andrew: https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html
+
+
