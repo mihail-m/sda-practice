@@ -137,7 +137,7 @@ void solve() {
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
-  	cout << fixed << setprecision(6);
+    cout << fixed << setprecision(6);
     
     input();
     solve();
