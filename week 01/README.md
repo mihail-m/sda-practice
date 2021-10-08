@@ -99,6 +99,4 @@
   </p>
 
 ### Tasks
-  - https://www.hackerrank.com/contests/practice-1-sda/challenges/encoding-password 
-  - https://www.hackerrank.com/contests/practice-1-sda/challenges/challenge-2196
-  - https://www.hackerrank.com/challenges/non-divisible-subset/problem (hard)
+  - https://www.hackerrank.com/contests/sda-practice-1/challenges
